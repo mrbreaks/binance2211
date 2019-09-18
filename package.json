@@ -1,0 +1,23 @@
+{
+  "name": "crypto-whale-watcher",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/uzillion/crypto-whale-watcher.svg?branch=master)](https://travis-ci.org/uzillion/crypto-whale-watcher)",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrbreaks/crypto-whale-watcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrbreaks/crypto-whale-watcher/issues"
+  },
+  "homepage": "https://github.com/mrbreaks/crypto-whale-watcher#readme"
+}
